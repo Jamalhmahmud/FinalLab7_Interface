@@ -1,0 +1,7 @@
+C:\Users\jhmla\source\repos\FinalLab7a\FinalLab7a\bin\Debug\FinalLab7a.exe.config
+C:\Users\jhmla\source\repos\FinalLab7a\FinalLab7a\bin\Debug\FinalLab7a.exe
+C:\Users\jhmla\source\repos\FinalLab7a\FinalLab7a\bin\Debug\FinalLab7a.pdb
+C:\Users\jhmla\source\repos\FinalLab7a\FinalLab7a\obj\Debug\FinalLab7a.csprojAssemblyReference.cache
+C:\Users\jhmla\source\repos\FinalLab7a\FinalLab7a\obj\Debug\FinalLab7a.csproj.CoreCompileInputs.cache
+C:\Users\jhmla\source\repos\FinalLab7a\FinalLab7a\obj\Debug\FinalLab7a.exe
+C:\Users\jhmla\source\repos\FinalLab7a\FinalLab7a\obj\Debug\FinalLab7a.pdb
